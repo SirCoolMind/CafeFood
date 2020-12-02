@@ -3,7 +3,6 @@
  "frame_id":1, 
  "filename":"data/test.jpg", 
  "objects": [ 
-  {"class_id":2, "name":"KangkungMasakBelacan", "relative_coordinates":{"center_x":0.759145, "center_y":0.797681, "width":0.329319, "height":0.222679}, "confidence":0.777537}, 
   {"class_id":1, "name":"RebungMasakLemak", "relative_coordinates":{"center_x":0.217932, "center_y":0.778274, "width":0.176674, "height":0.175105}, "confidence":0.635785}, 
   {"class_id":1, "name":"RebungMasakLemak", "relative_coordinates":{"center_x":0.181539, "center_y":0.819222, "width":0.212389, "height":0.207874}, "confidence":0.411503}, 
   {"class_id":1, "name":"RebungMasakLemak", "relative_coordinates":{"center_x":0.428838, "center_y":0.827456, "width":0.151554, "height":0.157026}, "confidence":0.738820}, 
